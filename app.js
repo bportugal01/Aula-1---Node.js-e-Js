@@ -24,7 +24,7 @@ switch (dia) {
         console.log("Hoje é Segunda-feira\n");
         break;
     case 2:
-        console.log("Hoje é Terça-feira\n");
+    console.log("Hoje é Terça-feira\n");
         break;
     case 3:
         console.log("Hoje é Quarta-feira\n");
